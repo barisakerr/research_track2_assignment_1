@@ -6,10 +6,10 @@ The aim of this project to be able to use the Sphinx for explaining a project. R
 
 Depends on to the syntax of the Sphinx inside of the python files related descriptions had been done. The descriptions generally includes aim of the node and important connections of the node, like publishers, subscribers, clients, messages and their purposes for the communication.
 
-After making changes inside of the script files, by going to the project folder inside of the terminal and by commanding this line: make html the html file had been created inside of the build folder. Inside of the html folder index.html should be visible. By clicking the index.html the sphinx web page must be visible. 
+After making changes inside of the script files, by going to the project folder inside of the terminal and by commanding this line: `make html` the html file had been created inside of the build folder. Inside of the html folder index.html should be visible. By clicking the index.html the sphinx web page must be visible. 
 
 
-# Installing #
+# Installing to Sphinx #
 
 ```bash
 $(sudo) apt-get install python3-sphinx
