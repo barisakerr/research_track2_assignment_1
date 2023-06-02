@@ -11,26 +11,25 @@ After making changes inside of the script files, by going to the project folder 
 
 # Installing #
 
-'''bash
+```bash
 $(sudo) apt-get install python3-sphinx
-'''
-
-'''bash
+```
+```bash
 $ pip3 install breathe
-'''
+```
 
-'''bash
+```bash
 $ pip3 install sphinx-rtd-theme
-'''
+```
 
-'''bash
+```bash
 $ sphinx-quickstart
-'''
+```
 
 # Running #
 
-'''bash
-cd assignment_2_2022/build/html 
-'''
 
-and click to the 'index.html'
+```bash
+cd assignment_2_2022/build/html 
+```
+and click to the `index.html`
