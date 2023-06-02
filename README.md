@@ -1,4 +1,4 @@
-# research_track2_assignment_1
+## research_track2_assignment_1 ##
 
 # Description #
 
@@ -10,11 +10,21 @@ After making changes inside of the script files, by going to the project folder 
 
 
 # Installing #
-
+'''
 $(sudo) apt-get install python3-sphinx
+'''
+
+'''
 $ pip3 install breathe
+'''
+
+'''
 $ pip3 install sphinx-rtd-theme
+'''
+
+'''
 $ sphinx-quickstart
+'''
 
 # Running #
 
